@@ -1,5 +1,0 @@
-php
-programacion
-juego
-ahorcado
-web
