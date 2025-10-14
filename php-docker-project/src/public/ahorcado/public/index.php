@@ -1,7 +1,10 @@
 <?php
 declare(strict_types=1);
 
-use App\{Game, WordProvider, Storage, Renderer};
+//Ejemplo de como implementar clases
+use App\{ WordProvider, Storage, Renderer};
+//use App\domain\Game;
+use App\Services\GameService;
 
 require __DIR__ . '/../vendor/autoload.php';
 
